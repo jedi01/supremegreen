@@ -1,0 +1,130 @@
+
+@media (min-width: 576px ) and (max-width: 740px){
+
+	.width200{
+width: 240px!important;
+height: 240px!important;
+}
+	
+
+
+}
+
+
+@media (min-width: 320px ) and (max-width: 575px){
+
+	.width200{
+width: 240px!important;
+height: 240px!important;
+}
+  .mb4sm{
+	margin-bottom: 3.5rem !important;
+}
+	.hideonsm{
+	display: none!important;
+}
+.text_center_sm{
+		text-align: center!important;
+	}
+	 .height85sm{
+  	height: 85px!important;
+  }
+
+.mlr0sm{
+	margin-left: 0px!important;
+	margin-right: 0px!important;
+}
+.div_center{
+vertical-align: middle;
+position: absolute;
+top: 30%;
+}
+.btn_block_sm{
+	display: block;
+width: 100%;
+}
+.pt3sm{
+	padding-top: 1rem!important;
+}
+
+}
+
+
+@media (min-width: 480px ){
+.text-right-lg{
+text-align: right!important;
+}
+.text-left-lg{
+	text-align: left!important;
+
+}
+
+
+
+}
+
+
+@media (min-width: 576px ) and (max-width: 991px){
+	.text-center-tab{
+		text-align: center!important;
+	}
+	.hideonsm{
+	display: none!important;
+}
+
+
+.pt150lg{
+		padding-top: 50px!important;
+	}
+	 .mb4sm{
+		margin-bottom: 3.5rem !important;
+	}
+
+
+}
+@media (min-width: 992px) {
+		.div_center{
+vertical-align: middle;
+padding-top: 30%;
+}
+	.ml15lg{
+	margin-left: 15px!important;
+}
+	.hideonlg{
+		display: none!important;
+	}
+	.pt150lg{
+		padding-top: 150px!important;
+	}
+	.mt5lg{
+		margin-top: 3rem !important;
+	}
+	.parent_div_center{
+  padding: 120px 0;
+}
+.div_center{
+padding: 0 0;
+/*position: absolute;*/
+}
+.pr0lg{
+	padding-right: 0px!important;
+}
+}
+
+/*landscape mobile css*/
+@media all and (max-width: 959px) and (orientation : landscape) {
+
+.width200{
+width: 240px!important;
+height: 240px!important;
+}
+.mt50or{
+	margin-top: 50px!important;
+}
+.text-left-or{
+	text-align: left!important;
+}
+
+
+
+}
